@@ -1,0 +1,16 @@
+[
+	{
+		id: <keksi tähän jokin>
+		name: string
+		roastDate: date
+		variety: string (katso joku järkevä tähän)
+		rating: int 1-5
+		notes: string max length 256
+	},
+]
+
+
+
+Paahtimo, nimi, 
+                  paahtopäivä, lajike, paahtoaste, arvostelu x/5 ja joku 
+                  tekstikenttä
